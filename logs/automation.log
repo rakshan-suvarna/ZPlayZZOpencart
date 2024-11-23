@@ -1,0 +1,24 @@
+2024-10-22 14:01:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\raksh\eclipse-workspace\ZPlayZZOpencart\Master.xml
+
+2024-10-22 14:03:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\raksh\eclipse-workspace\ZPlayZZOpencart\GroupTesting.xml
+
+2024-10-22 14:06:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\raksh\eclipse-workspace\ZPlayZZOpencart\GroupTesting.xml
+
+2024-10-22 14:06:16 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-10-22 14:06:27 ERROR TC001_AccountRegistrationTest:51 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=129.0.6668.101)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [40631efabc8ea772593e830f70c3129e, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.101, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\raksh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.109:4444/ses..., se:cdpVersion: 129.0.6668.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 40631efabc8ea772593e830f70c3129e
+2024-10-22 14:06:27 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-22 14:06:28 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-10-22 14:07:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\raksh\eclipse-workspace\ZPlayZZOpencart\GroupTesting.xml
+
